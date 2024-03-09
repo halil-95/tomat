@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@splidejs/splide": "^4.1.4",
+    "@vanillawc/wc-marquee": "^1.0.31"
+  }
+}
